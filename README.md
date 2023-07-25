@@ -21,6 +21,6 @@ Hello there, and welcome to my GitHub profile! 👋
     Database: SQL
     Data Visualization: Power BI
   
-Feel free to explore my repositories to see how I've utilized these technologies in various projects! If you have any questions or suggestions, don't hesitate to reach out. Happy coding! 🚀
+Feel free to explore my repositories to see how I've utilized these technologies in various projects! If you have any questions or suggestions, don't hesitate to reach out. 
 
-Looking forward to connecting and working together on exciting data-driven endeavors!
+Looking forward to connecting and working together on exciting data-driven endeavors! 🚀
