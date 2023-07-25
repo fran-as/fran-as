@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello there, and welcome to my GitHub profile! 👋
 
-<!--
-**fran-as/fran-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am currently focused on developing data-oriented slurry pumping solutions for the mining industry.
 
-Here are some ideas to get you started:
+🌱 Currently, I am immersed in learning machine learning techniques and creating business visualizations for large datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I am actively seeking collaboration opportunities on data projects that bring value and make a positive impact.
+
+🤔 I would greatly appreciate any assistance or insights related to machine learning solutions aimed at maximizing capital equipment availability and reliability.
+
+💬 Feel free to reach out to me if you have any questions about mining processes, services, or equipment.
+
+📫 You can contact me at francisco.albasaez@outlook.com.
+
+⚡ Fun fact: I believe cooking with music is an underrated pleasure!
+
+Looking forward to connecting and working together on exciting data-driven endeavors!
