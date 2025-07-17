@@ -17,9 +17,9 @@
 ## Technological Stack 
 - Programming: 🐍 Python
 - Data Analysis: Numpy, 🐼 Pandas, sklearn
-- Cloud Services:  Google Cloud
+- Cloud Services:  Google Cloud, Oracle cloud
 - Database: SQL
-- Data Visualization: Power BI
+- Data Visualization: Power BI, Streamlit
 
 
 Feel free to explore my repositories to see how I've utilized these technologies in various projects! If you have any **questions** or **suggestions**, don't hesitate to reach out. 
